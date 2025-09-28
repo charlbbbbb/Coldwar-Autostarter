@@ -1,4 +1,4 @@
-COLD WAR AUTO STARTER AND PAUSER BY CBRNN
+# COLD WAR AUTO STARTER AND PAUSER BY CBRNN
 
 **How to setup LiveSplit TCP Server**
 - Open Livesplit
@@ -10,4 +10,5 @@ Too early leads to various different issues. Currently, 9.6 (s) appears to be wo
 
 **Known Limitations**
 The pause/unpause may experience a <0.05 delay due to latency between the application and TCP server.
+
 This should generally even out over time.
