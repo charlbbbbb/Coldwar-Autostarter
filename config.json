@@ -1,0 +1,9 @@
+{
+    "MAX_FPS": 100,
+    "FPS_THRESHOLD": {
+        "GOOD": 60,
+        "AVERAGE": 30
+    },
+    "RESET_DELAY": 9.966666666666667,
+    "CUTSCENE_LENGTH": 85
+}
