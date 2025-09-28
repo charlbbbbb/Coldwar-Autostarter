@@ -1,8 +1,0 @@
-{
-    "MAX_FPS": 100,
-    "FPS_THRESHOLD": {
-        "GOOD": 60,
-        "AVERAGE": 30
-    },
-    "RESET_DELAY": 9.6
-}
